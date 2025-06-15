@@ -1,16 +1,14 @@
-EEI4369 - Mobile Application Development Lab Project
+EEI4369 - Mobile Application Development  For Android 
 
 This repository contains the **integrated Android application** developed for the EEI4369 Mobile Application Development Labs. The project includes **5 lab tasks** built using **Java and XML** in **Android Studio**, integrated into a single working app.
 
----
+
 
 Student Information
 Name: Sasini Kavindya  
-Registration Number:423605517 
-SID:s23010381  
 University: The Open University of Sri Lanka  
 
----
+
 
 Lab Tasks Overview
 
@@ -52,10 +50,13 @@ Technologies Used
 
 
 
-🔗 Submission Links
+Submission Links
 
 Demo Video (Google Drive): 
   https://drive.google.com/file/d/1A-naS49Z4WhlLWMJPUXuT96QizfRomil/view?usp=sharing
+
+GitHub Repository
+https://github.com/sasinikavindya/423605517-EEi4267-LabTasks
   
 
   
